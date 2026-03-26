@@ -29,34 +29,34 @@ At each step, save and commit your work in GitHub Desktop.
 
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
-**Your Movie Choice:**  
-- **Movie Title:**  
-- **Why I chose this movie:**  
+**Your Movie Choice:** Housemaid 
+- **Movie Title:** Housemaid 
+- **Why I chose this movie:** I chose this movie because it had a very big plot twist, the tension in the movie builds and in the end something very big is revealed that was not expected at first
 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
-- **Core emotion:**  
+- **Core emotion:** fear, tensions,mystery
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
-- **Why this element:**  
+- **Essential element:** A plate and in the polo bar  
+- **Why this element:** The plot twist was revealed from breaking a plate and leading up to that the man takes his wife at the time to the polo bar and orders the same meal
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
-- **Avoid:**  
+- **Avoid:** Lots of colors, since it is a pretty dark vibe to it  
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
-- **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+- **Dominant color(s):** Beige, Off white, brown and black 
+- **Accent color(s):** White, yellow, pink and light blue 
+- **Overall mood:** (warm/cool/muted/vibrant/dark/bright) a warm and cool colors  
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Close-up (face/detail) A girl holding a plate or a tea pot with a flower design 
+- [ ] Wide shot (landscape/setting) A window in the background with the polo bar in the back as well  
+- [ ] Medium shot (full figure) Two other people in the background one is a man and one is a women  
+- [ ] Object/symbol centered The plate  
+- [ ] Character collage Two women with blonde hair and one man with an angry face  
 
 - **Focal point description:**  
 
