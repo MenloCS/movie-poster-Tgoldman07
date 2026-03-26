@@ -89,14 +89,14 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:**Create a poster for a movie. Add the title "Housemaid" at the bottom with red. Have a girl in the middle of her face holding an a antic plate with a flower design, make this girl look like Sydney Sweeny. To the left of her a little further back is a women who has blonde hair who should look like Amanda Seyfried amd she is glancing over to the right at a guy who looks like Brandon Skelar. The man who looks like Brandon Skelar is looking at Sydney Sweeny with an angry face. In the background there is the famous polo bar with guys on horses. Make is more modern. Have the colors of the clothing be off white and beige colors, like brown. Have the mans color shirt be light blue. Have the girl without the plate have white jean pants and a white cardigan. Make the bar a darker color and have dimmer lighting.  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** The background looks better with more details and color 
+- **What didn't work:** The woman is not glancing at the man anymore. She is fully turned to him 
+- **What I'll change for next attempt:** Fix the girls position  
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:** Create a poster for a movie. Add the title "Housemaid" at the bottom with red. Have a girl in the middle of her face holding an a antic plate with a flower design, make this girl look like Sydney Sweeny. To the left of her a little further back is a women who has blonde hair who should look like Amanda Seyfried amd she is glancing over to the right at a guy who looks like Brandon Skelar. The man who looks like Brandon Skelar is looking at Sydney Sweeny with an angry face. In the background there is the famous polo bar with guys on horses. Make is more modern. Have the colors of the clothing be off white and beige colors, like brown. Have the mans color shirt be light blue. Have the girl without the plate have white jean pants and a white cardigan. Make the bar a darker color and have dimmer lighting. Make sure the girl with the white cardigan isnt fully looking at the man, only glancing at him 
 
 - **What worked:**  
 - **What didn't work:**  
