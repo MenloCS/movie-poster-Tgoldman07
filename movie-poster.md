@@ -67,19 +67,19 @@ What do you definitely NOT want? (This helps you evaluate AI outputs critically.
 
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
-**Attempt 1:**  
-- **My prompt:**  
+**Attempt 1:** 
+- **My prompt:** Create a poster for a movie. Add the title "Housemaid" at the bottom with red. Have a girl in the middle of her face holding an a antic plate with a flower design, make this girl look like Sydney Sweeny. To the left of her a little further back is a women who has blonde hair who should look like Amanda Seyfried amd she is glancing over to the right at a guy who looks like Brandon Skelar. The man who looks like Brandon Skelar is looking at Sydney Sweeny with an angry face. In the background there is the famous polo bar. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** The characters worked   
+- **What didn't work:** The coloring was off  
+- **What I'll change for next attempt:** Make the poster look more modern 
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**Create a poster for a movie. Add the title "Housemaid" at the bottom with red. Have a girl in the middle of her face holding an a antic plate with a flower design, make this girl look like Sydney Sweeny. To the left of her a little further back is a women who has blonde hair who should look like Amanda Seyfried amd she is glancing over to the right at a guy who looks like Brandon Skelar. The man who looks like Brandon Skelar is looking at Sydney Sweeny with an angry face. In the background there is the famous polo bar. Make is more modern. Have the colors be off white and beige colors, like brown. Have the mans color shirt be light blue. Have the girl without the plate have white jean pants and a white cardigan  
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** It looked more modern with the people and had more color  
+- **What didn't work:** There is a block of white in the background 
+- **What I'll change for next attempt:** Have only the bar be in the background
 
 ---
 
